@@ -10,7 +10,6 @@ import gsap from 'gsap';
 
 
 function Projects({cursorref,setCursorText,setIsHovered}) {
-  
   const data = [
     {
       id: 0,
@@ -53,7 +52,6 @@ function Projects({cursorref,setCursorText,setIsHovered}) {
       link2:"https://github.com/VishalSingh79/Birth-Date-Predictor.git",
     }
   ]
-
 
   return (
     <div className='projects' id='projectsec'>

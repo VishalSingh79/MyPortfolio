@@ -2,6 +2,7 @@ import React from 'react'
 import "./Skills.css"
 
 const SkillCard = ({text,img}) => {
+  
   return (
     <div className='eskills'>
       <p >
