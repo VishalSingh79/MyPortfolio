@@ -14,7 +14,7 @@ function Projects({cursorref,setCursorText,setIsHovered}) {
     {
       id: 0,
       name: "Notion Academy",
-      info: "Notion Academy—a MERN-powered platform where Admins manage, Instructors create courses, and Students learn through engaging courses, secure payments.",
+      info: "Notion Academy—a MERN-powered platform where Admins, Instructors, and Students collaborate together.Email: us55547660@gmail.com, Pass: 12@A12. Check it",
       image: notionacademy,
       link1:"https://notion-academy.vercel.app",
       link2:"https://github.com/VishalSingh79/Notion-Academy.git"
